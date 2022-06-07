@@ -5,7 +5,6 @@ A money app manager project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-Before running application you have to get an API from
 
 ## Platforms
 - Windows
